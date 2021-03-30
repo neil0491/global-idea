@@ -1,0 +1,19 @@
+$secondary-color: #f9f6e5;
+$main-text: #4A4A4A;
+$main-color: #8b8b8b;
+$primary-color: #5288ac;
+
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+$grid-columns: 12;
+$grid-gutter-width: 24px;
+
+$enable-grid-classes: true;
